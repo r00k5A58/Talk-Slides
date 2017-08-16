@@ -8,6 +8,8 @@ Online talk about password complexity, why previous passwords methods don't work
 **hard-target-talk.pptx**
 
 Talk at Wavelength Brewery about common dangers on the internet and two new habits to develop to be more secure while using the net
+YouTube: https://www.youtube.com/watch?v=q14FepeL61c
+
 
 **TeachanOrgtoPhish.pptx**
 
